@@ -1,0 +1,1000 @@
+category	catid	basearea	county	distance	dayspassed	categoryscore	output
+droughts	1	"51.360609, 0.159776"	Cheshire	82	693	0.01	no
+droughts	1	"51.430134, -0.006175"	City of London	58	61	0.04	no
+volcanoes	6	"54.894791,-2.931089"	Buckinghamshire	12	350	0.02	no
+earthquakes	3	"53.621936, -0.561011"	Buckinghamshire	76	49	0.07	yes
+floods	4	"52.501051, -1.707499"	County Durham	69	694	0.01	no
+severestorms	9	"51.182197, -2.104447"	County Durham	37	662	0.01	no
+dusthaze	8	"52.252009,0.397695"	0	48	143	0.04	no
+floods	4	"52.501834, -1.708503"	Gloucestershire	28	518	0.02	no
+severestorms	9	"51.230545, -2.190775"	Derbyshire	31	132	0.04	no
+tempextremes	5	"52.192267,0.137208"	North Yorkshire	19	432	0.02	no
+dusthaze	8	"52.352438,0.420868"	West Midlands	75	508	0.02	no
+wildfire	2	"53.743652, -2.478013"	Lincolnshire	10	79	0.04	no
+dusthaze	8	"52.24757,0.401394"	Shropshire	97	360	0.02	no
+wildfire	2	"53.792217, -1.7505"	Greater Manchester	17	367	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Shropshire	42	362	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Essex	62	25	0.07	yes
+severestorms	9	"52.388014, -1.958608"	North Yorkshire	20	4	0.07	yes
+floods	4	"51.441506,-2.354437"	West Midlands	55	685	0.01	no
+severestorms	9	"51.231182, -2.186065"	Oxfordshire	59	476	0.02	no
+wildfire	2	"53.74219, -2.474858"	North Yorkshire	70	351	0.02	no
+dusthaze	8	"52.24757,0.401394"	Buckinghamshire	96	484	0.02	no
+earthquakes	3	"50.756389, -4.388045"	Nottinghamshire	100	555	0.02	no
+earthquakes	3	"53.625017, -0.559379"	Derbyshire	31	412	0.02	no
+dusthaze	8	"52.25256,0.397124"	Cambridgeshire	33	220	0.03	no
+dusthaze	8	"52.501578, -1.703127"	Cambridgeshire	43	329	0.02	no
+earthquakes	3	"53.625017, -0.559379"	Greater Manchester	70	429	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Surrey	10	340	0.02	no
+tempextremes	5	"52.192267,0.137208"	Buckinghamshire	40	173	0.03	no
+earthquakes	3	"50.756389, -4.388045"	Northumberland	66	293	0.03	no
+severestorms	9	"51.230545, -2.190775"	Derbyshire	53	361	0.02	no
+floods	4	"52.502298, -1.709848"	Northumberland	99	163	0.03	no
+volcanoes	6	"54.893894,-2.929743"	Lincolnshire	18	132	0.04	no
+watercolor	7	"53.190042,-2.887631"	County Durham	16	598	0.02	no
+watercolor	7	"53.187754,-2.887104"	East Sussex	89	328	0.02	no
+severestorms	9	"51.230545, -2.190775"	Lincolnshire	95	645	0.01	no
+volcanoes	6	"54.893917,-2.931381"	Cambridgeshire	44	80	0.04	no
+earthquakes	3	"53.621414, -0.564673"	East Sussex	48	553	0.02	no
+watercolor	7	"53.188607,-2.889651"	North Yorkshire	82	538	0.02	no
+droughts	1	"51.592305, -0.677504"	Shropshire	62	322	0.02	no
+wildfire	2	"53.647587, -2.308129"	Kent	57	700	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Oxfordshire	12	631	0.01	no
+wildfire	2	"53.650733, -2.310556"	Merseyside	47	88	0.04	no
+droughts	1	"51.360609, 0.159776"	Oxfordshire	44	83	0.04	no
+earthquakes	3	"53.621936, -0.561011"	Gloucestershire	83	689	0.01	no
+volcanoes	6	"54.893894,-2.929743"	City of London	86	227	0.03	no
+wildfire	2	"53.650733, -2.310556"	Greater London	11	435	0.02	no
+tempextremes	5	"52.192267,0.137208"	Merseyside	31	428	0.02	no
+watercolor	7	"53.188607,-2.889651"	Lincolnshire	51	320	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Surrey	45	7	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	County Durham	99	555	0.02	no
+volcanoes	6	"54.894814,-2.930434"	West Sussex	31	542	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Oxfordshire	76	668	0.01	no
+volcanoes	6	"54.894814,-2.930434"	Greater London	63	78	0.04	no
+volcanoes	6	"54.893917,-2.931381"	Nottinghamshire	25	6	0.07	yes
+earthquakes	3	"50.756389, -4.388045"	Cheshire	84	144	0.04	no
+tempextremes	5	"52.192267,0.137208"	Nottinghamshire	91	312	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Gloucestershire	46	487	0.02	no
+wildfire	2	"53.792789, -1.750545"	Greater London	41	685	0.01	no
+tempextremes	5	"51.378849,-2.355562"	Tyne and Wear	30	221	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Lincolnshire	36	378	0.02	no
+dusthaze	8	"52.252009,0.397695"	Shropshire	50	568	0.02	no
+watercolor	7	"53.188509,-2.892222"	Essex	27	110	0.04	no
+severestorms	9	"51.22787, -2.193757"	Tyne and Wear	49	6	0.07	yes
+wildfire	2	"53.58222, -2.445691"	North Yorkshire	93	328	0.02	no
+severestorms	9	"52.388014, -1.958608"	Suffolk	82	204	0.03	no
+wildfire	2	"53.582279, -2.446658"	0	40	289	0.03	no
+severestorms	9	"51.229835, -2.193459"	Surrey	90	451	0.02	no
+droughts	1	"51.360609, 0.159776"	Tyne and Wear	39	63	0.04	no
+earthquakes	3	"50.750926, -4.391852"	Buckinghamshire	12	230	0.03	no
+floods	4	"52.500734, -1.706293"	Gloucestershire	72	44	0.07	yes
+wildfire	2	"53.582669, -2.44393"	Essex	80	123	0.04	no
+droughts	1	"51.343614, -0.770118"	Gloucestershire	62	35	0.07	yes
+wildfire	2	"53.802228, -1.75588"	Merseyside	76	499	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Gloucestershire	44	456	0.02	no
+dusthaze	8	"52.25256,0.397124"	West Sussex	67	546	0.02	no
+droughts	1	"51.303163, -0.086941"	Cambridgeshire	37	630	0.01	no
+severestorms	9	"51.229835, -2.193459"	Nottinghamshire	34	85	0.04	no
+wildfire	2	"52.914939, -1.465616"	City of London	28	447	0.02	no
+droughts	1	"51.428039, 0.014365"	Merseyside	69	258	0.03	no
+dusthaze	8	"52.24757,0.401394"	Merseyside	13	265	0.03	no
+earthquakes	3	"53.621041, -0.559832"	East Sussex	72	498	0.02	no
+wildfire	2	"53.742346, -2.47627"	Greater London	33	151	0.03	no
+watercolor	7	"53.188607,-2.889651"	Cambridgeshire	84	119	0.04	no
+floods	4	"52.501381, -1.706348"	Surrey	74	290	0.03	no
+wildfire	2	"53.547162, -2.007025"	Essex	28	39	0.07	yes
+volcanoes	6	"54.894791,-2.931089"	Northumberland	100	440	0.02	no
+wildfire	2	"53.744136, -2.480475"	Surrey	100	681	0.01	no
+dusthaze	8	"52.24757,0.401394"	West Sussex	62	595	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Lincolnshire	13	388	0.02	no
+dusthaze	8	"52.250454,0.398549"	Cambridgeshire	95	681	0.01	no
+tempextremes	5	"52.192267,0.137208,,"	West Midlands	15	107	0.04	no
+tempextremes	5	"51.378849,-2.355562"	West Sussex	18	457	0.02	no
+floods	4	"52.500997, -1.710946"	Buckinghamshire	63	391	0.02	no
+watercolor	7	"53.190142,-2.886673"	Greater London	22	697	0.01	no
+floods	4	"52.500218, -1.708418"	Nottinghamshire	12	672	0.01	no
+droughts	1	"50.821384, -0.150627 "	Nottinghamshire	63	75	0.04	no
+earthquakes	3	"53.621936, -0.561011"	Greater Manchester	27	632	0.01	no
+droughts	1	"51.720686, -1.629782"	Tyne and Wear	69	626	0.01	no
+tempextremes	5	"52.192267,0.137208"	Lincolnshire	22	465	0.02	no
+severestorms	9	"51.22787, -2.193757"	Buckinghamshire	64	402	0.02	no
+severestorms	9	"51.229835, -2.193459"	0	61	688	0.01	no
+severestorms	9	"51.229835, -2.193459"	Cheshire	51	676	0.01	no
+droughts	1	"51.406929, 0.012445"	Lincolnshire	83	63	0.04	no
+severestorms	9	"51.231182, -2.186065"	Surrey	91	581	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Essex	51	613	0.01	no
+volcanoes	6	"54.893917,-2.931381"	Merseyside	53	31	0.07	yes
+floods	4	"52.500218, -1.708418"	Kent	67	11	0.07	yes
+tempextremes	5	"52.192267,0.137208"	Northumberland	99	12	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	Northumberland	77	79	0.04	no
+volcanoes	6	"54.894346,-2.931702"	East Sussex	16	51	0.04	no
+dusthaze	8	"52.352438,0.420868"	Essex	68	44	0.07	yes
+watercolor	7	"53.190142,-2.886673"	0	93	23	0.07	yes
+severestorms	9	"51.230545, -2.190775"	Buckinghamshire	63	559	0.02	no
+wildfire	2	"52.914939, -1.465616"	0	32	333	0.02	no
+tempextremes	5	"52.192267,0.137208"	Merseyside	89	224	0.03	no
+dusthaze	8	"52.501578, -1.703127"	County Durham	60	192	0.03	no
+tempextremes	5	"52.192267,0.137208"	Merseyside	40	197	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Essex	32	498	0.02	no
+severestorms	9	"51.22787, -2.193757"	Gloucestershire	51	312	0.02	no
+volcanoes	6	"54.894346,-2.931702"	North Yorkshire	70	274	0.03	no
+severestorms	9	"51.230545, -2.190775"	Merseyside	61	536	0.02	no
+dusthaze	8	"52.24757,0.401394"	Northumberland	42	27	0.07	yes
+floods	4	"52.501381, -1.706348"	Nottinghamshire	13	119	0.04	no
+tempextremes	5	"51.378849,-2.355562"	West Midlands	87	106	0.04	no
+wildfire	2	"53.582279, -2.446658"	Cheshire	34	228	0.03	no
+droughts	1	"50.784212, -1.791718"	North Yorkshire	76	566	0.02	no
+droughts	1	"51.453523, -0.952437"	0	30	648	0.01	no
+earthquakes	3	"53.625017, -0.559379"	Lincolnshire	58	382	0.02	no
+dusthaze	8	"52.252009,0.397695"	North Yorkshire	60	299	0.03	no
+tempextremes	5	"52.192267,0.137208"	Northumberland	27	632	0.01	no
+droughts	1	"51.303163, -0.086941"	Oxfordshire	42	612	0.01	no
+earthquakes	3	"50.756389, -4.388045"	Greater London	40	386	0.02	no
+droughts	1	"50.752509, -1.720279"	0	42	489	0.02	no
+severestorms	9	"51.22787, -2.193757"	Derbyshire	80	539	0.02	no
+tempextremes	5	"52.192267,0.137208"	Cheshire	84	567	0.02	no
+watercolor	7	"53.188509,-2.892222"	Oxfordshire	48	530	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Greater Manchester	90	574	0.02	no
+severestorms	9	"51.229835, -2.193459"	Lincolnshire	23	316	0.02	no
+floods	4	"52.501834, -1.708503"	Cheshire	73	288	0.03	no
+tempextremes	5	"52.192267,0.137208"	Oxfordshire	32	46	0.07	yes
+watercolor	7	"53.187754,-2.887104"	Tyne and Wear	92	270	0.03	no
+droughts	1	"51.736885, -1.655441"	Buckinghamshire	95	351	0.02	no
+earthquakes	3	"50.750926, -4.391852"	Buckinghamshire	56	60	0.04	no
+earthquakes	3	"53.655566, -0.787796"	City of London	23	171	0.03	no
+wildfire	2	"52.914939, -1.465616"	Greater Manchester	76	66	0.04	no
+volcanoes	6	"54.894814,-2.930434"	Northumberland	40	24	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	Oxfordshire	50	653	0.01	no
+volcanoes	6	"54.894346,-2.931702"	West Sussex	46	296	0.03	no
+floods	4	"52.500609, -1.707671"	Lincolnshire	88	416	0.02	no
+floods	4	"52.500218, -1.708418"	Essex	29	284	0.03	no
+severestorms	9	"51.22787, -2.193757"	Oxfordshire	67	58	0.04	no
+droughts	1	"51.303163, -0.086941"	Nottinghamshire	72	64	0.04	no
+volcanoes	6	"54.893894,-2.929743"	Cambridgeshire	12	115	0.04	no
+severestorms	9	"51.182197, -2.104447"	Gloucestershire	14	387	0.02	no
+dusthaze	8	"52.252009,0.397695"	Kent	68	381	0.02	no
+tempextremes	5	"51.378849,-2.355562"	North Yorkshire	99	301	0.02	no
+earthquakes	3	"53.62355, -0.558431"	0	58	105	0.04	no
+droughts	1	"51.736885, -1.655441"	Derbyshire	33	156	0.03	no
+earthquakes	3	"53.625017, -0.559379"	County Durham	14	519	0.02	no
+dusthaze	8	"52.24757,0.401394"	Merseyside	16	583	0.02	no
+watercolor	7	"53.190042,-2.887631"	West Sussex	38	611	0.01	no
+dusthaze	8	"52.352438,0.420868"	Kent	75	685	0.01	no
+watercolor	7	"53.187754,-2.887104"	County Durham	14	59	0.04	no
+wildfire	2	"53.547162, -2.007025"	Buckinghamshire	30	235	0.03	no
+volcanoes	6	"54.894791,-2.931089"	Merseyside	11	692	0.01	no
+severestorms	9	"51.231182, -2.186065"	Greater London	48	634	0.01	no
+earthquakes	3	"50.736206, -4.392418"	Cambridgeshire	58	135	0.04	no
+earthquakes	3	"53.620984, -0.566366"	Tyne and Wear	42	272	0.03	no
+volcanoes	6	"54.894791,-2.931089"	Buckinghamshire	29	81	0.04	no
+severestorms	9	"51.182197, -2.104447"	West Sussex	49	120	0.04	no
+watercolor	7	"53.18945,-2.888651"	West Sussex	63	230	0.03	no
+floods	4	"52.500997, -1.710946"	Tyne and Wear	28	333	0.02	no
+dusthaze	8	"52.25256,0.397124"	Oxfordshire	30	532	0.02	no
+watercolor	7	"53.190042,-2.887631"	Surrey	18	419	0.02	no
+tempextremes	5	"52.192267,0.137208"	Tyne and Wear	76	639	0.01	no
+watercolor	7	"53.18945,-2.888651"	Suffolk	28	10	0.07	yes
+floods	4	"51.441301,-2.337974"	0	88	288	0.03	no
+wildfire	2	"52.914939, -1.465616"	Cambridgeshire	28	409	0.02	no
+watercolor	7	"53.190142,-2.886673"	Greater London	88	664	0.01	no
+floods	4	"51.430593,-2.408768"	Lincolnshire	40	468	0.02	no
+droughts	1	"51.360609, 0.159776"	Buckinghamshire	10	571	0.02	no
+wildfire	2	"53.744284, -2.476638"	Suffolk	84	477	0.02	no
+earthquakes	3	"50.757428, -4.44438"	Greater Manchester	63	532	0.02	no
+earthquakes	3	"53.622245, -0.559065"	Suffolk	25	425	0.02	no
+droughts	1	"51.737307, -1.65496"	West Midlands	38	217	0.03	no
+floods	4	"51.430593,-2.408768"	Northumberland	17	473	0.02	no
+dusthaze	8	"52.501578, -1.703127"	0	40	426	0.02	no
+severestorms	9	"51.231182, -2.186065"	Gloucestershire	86	600	0.02	no
+watercolor	7	"53.188509,-2.892222"	0	97	409	0.02	no
+droughts	1	"51.736885, -1.655441"	Oxfordshire	19	633	0.01	no
+severestorms	9	"51.229835, -2.193459"	Surrey	11	240	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Buckinghamshire	86	65	0.04	no
+severestorms	9	"51.230545, -2.190775"	Suffolk	10	282	0.03	no
+wildfire	2	"53.650733, -2.310556"	East Sussex	60	350	0.02	no
+wildfire	2	"53.791967, -1.751093"	Oxfordshire	26	36	0.07	yes
+tempextremes	5	"52.192267,0.137208"	Greater London	50	197	0.03	no
+watercolor	7	"53.188509,-2.892222"	Greater Manchester	38	469	0.02	no
+severestorms	9	"52.388014, -1.958608"	Suffolk	29	640	0.01	no
+tempextremes	5	"51.378849,-2.355562"	City of London	67	139	0.04	no
+droughts	1	"51.452464, -0.953699"	Kent	29	16	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	Cheshire	47	631	0.01	no
+droughts	1	"51.34255, -0.766427"	City of London	85	528	0.02	no
+floods	4	"51.441301,-2.337974"	Gloucestershire	50	447	0.02	no
+severestorms	9	"52.388014, -1.958608"	Buckinghamshire	30	631	0.01	no
+wildfire	2	"52.914939, -1.465616"	Cheshire	91	397	0.02	no
+droughts	1	"51.428039, 0.014365"	Oxfordshire	41	15	0.07	yes
+wildfire	2	"52.914939, -1.465616"	Oxfordshire	37	602	0.01	no
+floods	4	"52.500997, -1.710946"	Kent	91	5	0.07	yes
+earthquakes	3	"53.62355, -0.558431"	Merseyside	45	640	0.01	no
+floods	4	"52.502298, -1.709848"	County Durham	18	502	0.02	no
+watercolor	7	"53.190142,-2.886673"	Buckinghamshire	50	241	0.03	no
+dusthaze	8	"52.352438,0.420868"	0	63	257	0.03	no
+severestorms	9	"51.230545, -2.190775"	Nottinghamshire	87	412	0.02	no
+tempextremes	5	"52.192267,0.137208"	County Durham	37	230	0.03	no
+droughts	1	"50.784212, -1.791718"	Greater Manchester	26	129	0.04	no
+earthquakes	3	"53.625017, -0.559379"	North Yorkshire	94	394	0.02	no
+severestorms	9	"51.229835, -2.193459"	Kent	28	196	0.03	no
+dusthaze	8	"52.501578, -1.703127"	North Yorkshire	75	286	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Northumberland	95	622	0.01	no
+wildfire	2	"52.914939, -1.465616"	Tyne and Wear	73	78	0.04	no
+severestorms	9	"52.388014, -1.958608"	Cheshire	26	540	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Suffolk	15	105	0.04	no
+tempextremes	5	"52.192267,0.137208"	City of London	29	527	0.02	no
+wildfire	2	"53.792723, -1.751681"	0	32	301	0.02	no
+floods	4	"52.500734, -1.706293"	Surrey	66	221	0.03	no
+floods	4	"52.501834, -1.708503"	Northumberland	67	692	0.01	no
+dusthaze	8	"52.250454,0.398549"	West Midlands	41	626	0.01	no
+dusthaze	8	"52.252009,0.397695"	West Sussex	95	422	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Lincolnshire	61	328	0.02	no
+tempextremes	5	"51.378849,-2.355562"	City of London	28	587	0.02	no
+droughts	1	"50.844031, -0.153183"	Tyne and Wear	92	493	0.02	no
+wildfire	2	"53.802228, -1.75588"	Greater Manchester	34	688	0.01	no
+dusthaze	8	"52.352438,0.420868"	Suffolk	13	258	0.03	no
+droughts	1	"50.784212, -1.791718"	North Yorkshire	93	470	0.02	no
+watercolor	7	"53.188607,-2.889651"	West Sussex	53	102	0.04	no
+watercolor	7	"53.190142,-2.886673"	Northumberland	65	51	0.04	no
+volcanoes	6	"54.894814,-2.930434"	Nottinghamshire	11	512	0.02	no
+severestorms	9	"51.229835, -2.193459"	Gloucestershire	33	105	0.04	no
+floods	4	"52.501051, -1.707499"	Shropshire	93	343	0.02	no
+watercolor	7	"53.18945,-2.888651"	County Durham	34	58	0.04	no
+watercolor	7	"53.188607,-2.889651"	County Durham	33	698	0.01	no
+severestorms	9	"51.22787, -2.193757"	Cambridgeshire	21	249	0.03	no
+floods	4	"52.501381, -1.706348"	Essex	24	676	0.01	no
+tempextremes	5	"52.192267,0.137208"	Shropshire	31	406	0.02	no
+volcanoes	6	"54.893917,-2.931381"	West Sussex	33	527	0.02	no
+wildfire	2	"53.744136, -2.480475"	Cheshire	21	348	0.02	no
+dusthaze	8	"52.250454,0.398549"	City of London	54	218	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Shropshire	54	603	0.01	no
+floods	4	"52.502267, -1.70836"	Gloucestershire	21	670	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Derbyshire	75	407	0.02	no
+earthquakes	3	"53.621367, -0.559812"	Derbyshire	48	535	0.02	no
+volcanoes	6	"54.894814,-2.930434"	Buckinghamshire	87	455	0.02	no
+dusthaze	8	"52.352438,0.420868"	County Durham	17	487	0.02	no
+earthquakes	3	"53.621956, -0.568707"	Essex	27	590	0.02	no
+dusthaze	8	"52.24757,0.401394"	County Durham	47	306	0.02	no
+droughts	1	"50.814132, -0.37069"	Greater Manchester	54	285	0.03	no
+floods	4	"52.501381, -1.706348"	Suffolk	36	664	0.01	no
+volcanoes	6	"54.893532,-2.930093"	West Midlands	71	261	0.03	no
+droughts	1	"51.406423, 0.012595"	County Durham	71	114	0.04	no
+dusthaze	8	"52.250454,0.398549"	North Yorkshire	58	343	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Buckinghamshire	64	94	0.04	no
+floods	4	"52.501381, -1.706348"	Suffolk	29	403	0.02	no
+floods	4	"51.441506,-2.354437"	Cheshire	64	649	0.01	no
+severestorms	9	"51.229835, -2.193459"	Nottinghamshire	78	634	0.01	no
+earthquakes	3	"50.736206, -4.392418"	Merseyside	68	220	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Nottinghamshire	35	328	0.02	no
+earthquakes	3	"53.621414, -0.564673"	Merseyside	37	564	0.02	no
+wildfire	2	"52.914939, -1.465616"	North Yorkshire	76	64	0.04	no
+tempextremes	5	"51.378849,-2.355562"	City of London	53	296	0.03	no
+earthquakes	3	"53.622245, -0.559065"	Shropshire	85	530	0.02	no
+wildfire	2	"53.802228, -1.75588"	Suffolk	12	59	0.04	no
+volcanoes	6	"54.894791,-2.931089"	Cambridgeshire	31	599	0.02	no
+wildfire	2	"53.792723, -1.751681"	West Sussex	55	184	0.03	no
+droughts	1	"51.720686, -1.629782"	0	79	174	0.03	no
+wildfire	2	"53.792723, -1.751681"	0	17	61	0.04	no
+severestorms	9	"51.229835, -2.193459"	East Sussex	17	654	0.01	no
+watercolor	7	"53.187754,-2.887104"	West Sussex	66	567	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Buckinghamshire	83	667	0.01	no
+floods	4	"52.502298, -1.709848"	Buckinghamshire	33	612	0.01	no
+wildfire	2	"53.744282, -2.473274"	Essex	60	68	0.04	no
+volcanoes	6	"54.894346,-2.931702"	Kent	27	201	0.03	no
+watercolor	7	"53.187754,-2.887104"	Kent	95	172	0.03	no
+watercolor	7	"53.187754,-2.887104"	City of London	75	485	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Nottinghamshire	80	475	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Lincolnshire	55	159	0.03	no
+tempextremes	5	"52.192267,0.137208"	West Midlands	79	81	0.04	no
+volcanoes	6	"54.893894,-2.929743"	Buckinghamshire	92	530	0.02	no
+dusthaze	8	"52.252009,0.397695"	Greater Manchester	64	349	0.02	no
+floods	4	"51.441506,-2.354437"	Essex	80	257	0.03	no
+severestorms	9	"51.230545, -2.190775"	City of London	75	96	0.04	no
+dusthaze	8	"52.252009,0.397695"	County Durham	84	201	0.03	no
+floods	4	"51.441301,-2.337974"	Greater Manchester	75	552	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Essex	39	259	0.03	no
+watercolor	7	"53.187754,-2.887104"	Essex	75	648	0.01	no
+watercolor	7	"53.190142,-2.886673"	Greater Manchester	39	536	0.02	no
+dusthaze	8	"52.352438,0.420868"	Derbyshire	30	218	0.03	no
+dusthaze	8	"52.24757,0.401394"	Oxfordshire	94	496	0.02	no
+watercolor	7	"53.18945,-2.888651"	East Sussex	57	207	0.03	no
+floods	4	"52.500609, -1.707671"	Cheshire	68	599	0.02	no
+wildfire	2	"52.914939, -1.465616"	Kent	97	103	0.04	no
+volcanoes	6	"54.893894,-2.929743"	County Durham	90	660	0.01	no
+volcanoes	6	"54.893894,-2.929743"	Nottinghamshire	44	330	0.02	no
+floods	4	"51.438727,-2.347839"	Shropshire	17	169	0.03	no
+dusthaze	8	"52.252009,0.397695"	West Midlands	69	384	0.02	no
+dusthaze	8	"52.250454,0.398549"	Cheshire	93	60	0.04	no
+tempextremes	5	"51.378849,-2.355562"	Suffolk	37	482	0.02	no
+tempextremes	5	"52.192267,0.137208"	West Sussex	59	576	0.02	no
+watercolor	7	"53.190142,-2.886673"	Northumberland	55	330	0.02	no
+dusthaze	8	"52.250454,0.398549"	Oxfordshire	52	201	0.03	no
+volcanoes	6	"54.893894,-2.929743"	Lincolnshire	34	429	0.02	no
+wildfire	2	"53.791967, -1.751093"	Surrey	19	570	0.02	no
+dusthaze	8	"52.250454,0.398549"	Surrey	49	566	0.02	no
+floods	4	"52.501381, -1.706348"	Cambridgeshire	42	304	0.02	no
+floods	4	"51.430593,-2.408768"	Merseyside	17	456	0.02	no
+earthquakes	3	"50.750023, -4.395419"	Lincolnshire	55	122	0.04	no
+tempextremes	5	"52.192267,0.137208"	0	85	425	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Suffolk	30	336	0.02	no
+droughts	1	"51.360609, 0.159776"	0	15	141	0.04	no
+tempextremes	5	"52.192267,0.137208"	Merseyside	47	693	0.01	no
+dusthaze	8	"52.352438,0.420868"	Greater Manchester	16	676	0.01	no
+floods	4	"52.502298, -1.709848"	Greater Manchester	85	246	0.03	no
+floods	4	"52.500609, -1.707671"	Oxfordshire	12	398	0.02	no
+droughts	1	"51.453523, -0.952437"	Northumberland	27	28	0.07	yes
+earthquakes	3	"53.622259, -0.563994"	County Durham	23	90	0.04	no
+earthquakes	3	"53.621041, -0.559832"	Buckinghamshire	80	111	0.04	no
+dusthaze	8	"52.250454,0.398549"	East Sussex	64	210	0.03	no
+droughts	1	"50.821384, -0.150627 "	County Durham	76	11	0.07	yes
+watercolor	7	"53.190142,-2.886673"	Buckinghamshire	57	546	0.02	no
+wildfire	2	"53.744175, -2.477564"	West Sussex	74	270	0.03	no
+droughts	1	"51.453523, -0.952437"	West Sussex	55	365	0.02	no
+severestorms	9	"51.182197, -2.104447"	Tyne and Wear	84	71	0.04	no
+dusthaze	8	"52.501578, -1.703127"	Oxfordshire	77	687	0.01	no
+tempextremes	5	"52.192267,0.137208"	Greater London	28	211	0.03	no
+earthquakes	3	"53.655566, -0.787796"	Essex	48	131	0.04	no
+floods	4	"52.501834, -1.708503"	Shropshire	62	135	0.04	no
+floods	4	"52.502267, -1.70836"	Northumberland	93	372	0.02	no
+earthquakes	3	"53.655566, -0.787796"	East Sussex	26	115	0.04	no
+dusthaze	8	"52.501578, -1.703127"	West Sussex	83	320	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Essex	20	370	0.02	no
+droughts	1	"50.821384, -0.150627 "	Kent	28	394	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Shropshire	26	336	0.02	no
+dusthaze	8	"52.501578, -1.703127"	North Yorkshire	78	310	0.02	no
+watercolor	7	"53.188607,-2.889651"	Oxfordshire	57	172	0.03	no
+watercolor	7	"53.187754,-2.887104"	Lincolnshire	99	151	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Nottinghamshire	65	240	0.03	no
+dusthaze	8	"52.501578, -1.703127"	Suffolk	49	184	0.03	no
+earthquakes	3	"50.756389, -4.388045"	Merseyside	21	568	0.02	no
+watercolor	7	"53.18945,-2.888651"	Cheshire	54	587	0.02	no
+watercolor	7	"53.188607,-2.889651"	Greater Manchester	50	359	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Essex	86	557	0.02	no
+earthquakes	3	"50.757428, -4.44438"	Gloucestershire	98	664	0.01	no
+tempextremes	5	"51.378849,-2.355562"	County Durham	59	373	0.02	no
+dusthaze	8	"52.252009,0.397695"	Derbyshire	68	134	0.04	no
+dusthaze	8	"52.352438,0.420868"	Surrey	99	658	0.01	no
+volcanoes	6	"54.893917,-2.931381"	Merseyside	49	417	0.02	no
+earthquakes	3	"53.62355, -0.558431"	Oxfordshire	24	302	0.02	no
+droughts	1	"51.360609, 0.159776"	Oxfordshire	80	240	0.03	no
+floods	4	"51.441301,-2.337974"	Essex	33	296	0.03	no
+dusthaze	8	"52.24757,0.401394"	Greater Manchester	88	200	0.03	no
+earthquakes	3	"53.62355, -0.558431"	Greater London	89	514	0.02	no
+floods	4	"52.500609, -1.707671"	Surrey	75	37	0.07	yes
+watercolor	7	"53.187754,-2.887104"	North Yorkshire	19	306	0.02	no
+wildfire	2	"53.802228, -1.75588"	Buckinghamshire	67	457	0.02	no
+tempextremes	5	"52.192267,0.137208"	West Midlands	22	522	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Merseyside	94	393	0.02	no
+tempextremes	5	"52.192267,0.137208"	Northumberland	36	447	0.02	no
+floods	4	"52.501834, -1.708503"	Suffolk	55	596	0.02	no
+severestorms	9	"51.231182, -2.186065"	East Sussex	60	107	0.04	no
+droughts	1	"51.303163, -0.086941"	Kent	41	577	0.02	no
+dusthaze	8	"52.24757,0.401394"	Buckinghamshire	44	473	0.02	no
+dusthaze	8	"52.352438,0.420868"	Oxfordshire	15	589	0.02	no
+droughts	1	"50.850164, -0.150313"	Cambridgeshire	42	640	0.01	no
+wildfire	2	"52.914939, -1.465616"	East Sussex	47	287	0.03	no
+floods	4	"51.441506,-2.354437"	Gloucestershire	70	148	0.04	no
+tempextremes	5	"52.192267,0.137208"	City of London	88	682	0.01	no
+droughts	1	"51.736885, -1.655441"	Oxfordshire	69	109	0.04	no
+dusthaze	8	"52.352438,0.420868"	Northumberland	12	341	0.02	no
+floods	4	"51.430593,-2.408768"	Tyne and Wear	84	86	0.04	no
+wildfire	2	"52.914939, -1.465616"	Gloucestershire	99	60	0.04	no
+wildfire	2	"53.792789, -1.750545"	North Yorkshire	60	626	0.01	no
+earthquakes	3	"53.622259, -0.563994"	Greater Manchester	61	489	0.02	no
+droughts	1	"51.452464, -0.953699"	County Durham	30	341	0.02	no
+watercolor	7	"53.190142,-2.886673"	East Sussex	10	50	1	yes
+droughts	1	"51.360609, 0.159776"	Surrey	79	474	0.02	no
+earthquakes	3	"50.756389, -4.388045"	Surrey	41	107	0.04	no
+droughts	1	"50.821384, -0.150627 "	Oxfordshire	82	626	0.01	no
+dusthaze	8	"52.250454,0.398549"	Northumberland	37	607	0.01	no
+dusthaze	8	"52.25256,0.397124"	Greater London	88	257	0.03	no
+tempextremes	5	"52.192267,0.137208"	Gloucestershire	10	264	0.03	no
+wildfire	2	"53.74219, -2.474858"	West Midlands	96	402	0.02	no
+wildfire	2	"52.914939, -1.465616"	Greater London	78	547	0.02	no
+floods	4	"52.500218, -1.708418"	City of London	53	207	0.03	no
+watercolor	7	"53.190042,-2.887631"	Tyne and Wear	35	519	0.02	no
+floods	4	"52.501051, -1.707499"	Cheshire	91	404	0.02	no
+wildfire	2	"53.746292, -2.476193"	Nottinghamshire	21	258	0.03	no
+volcanoes	6	"54.894814,-2.930434"	County Durham	58	95	0.04	no
+earthquakes	3	"50.748493, -4.414607"	North Yorkshire	92	172	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Gloucestershire	32	437	0.02	no
+dusthaze	8	"52.501578, -1.703127"	City of London	26	271	0.03	no
+wildfire	2	"53.744282, -2.473274"	Suffolk	90	596	0.02	no
+earthquakes	3	"53.621367, -0.559812"	Surrey	18	646	0.01	no
+volcanoes	6	"54.894791,-2.931089"	Merseyside	81	49	0.07	yes
+floods	4	"52.500609, -1.707671"	County Durham	86	629	0.01	no
+watercolor	7	"53.18945,-2.888651"	West Midlands	65	536	0.02	no
+floods	4	"51.438727,-2.347839"	Cheshire	98	51	0.04	no
+volcanoes	6	"54.893917,-2.931381"	Tyne and Wear	33	378	0.02	no
+severestorms	9	"52.388014, -1.958608"	Nottinghamshire	32	34	0.07	yes
+wildfire	2	"52.914939, -1.465616"	Merseyside	16	287	0.03	no
+volcanoes	6	"54.893917,-2.931381"	Surrey	84	489	0.02	no
+watercolor	7	"53.190042,-2.887631"	Shropshire	63	165	0.03	no
+watercolor	7	"53.18945,-2.888651"	County Durham	14	66	0.04	no
+dusthaze	8	"52.352438,0.420868"	Nottinghamshire	64	122	0.04	no
+wildfire	2	"52.914939, -1.465616"	0	89	167	0.03	no
+earthquakes	3	"53.621041, -0.559832"	Kent	43	520	0.02	no
+tempextremes	5	"51.378849,-2.355562"	West Sussex	39	48	0.07	yes
+watercolor	7	"53.188509,-2.892222"	Shropshire	73	110	0.04	no
+floods	4	"52.500218, -1.708418"	East Sussex	14	104	0.04	no
+severestorms	9	"51.230545, -2.190775"	Gloucestershire	39	303	0.02	no
+earthquakes	3	"53.621367, -0.559812"	Gloucestershire	73	207	0.03	no
+watercolor	7	"53.18945,-2.888651"	West Midlands	15	249	0.03	no
+severestorms	9	"51.230545, -2.190775"	Nottinghamshire	18	526	0.02	no
+severestorms	9	"51.230545, -2.190775"	Greater London	28	655	0.01	no
+volcanoes	6	"54.894346,-2.931702"	East Sussex	85	317	0.02	no
+droughts	1	"51.303163, -0.086941"	Cheshire	82	269	0.03	no
+dusthaze	8	"52.25256,0.397124"	East Sussex	51	156	0.03	no
+wildfire	2	"53.650733, -2.310556"	Gloucestershire	53	11	0.07	yes
+wildfire	2	"53.64867, -2.309635"	Oxfordshire	91	44	0.07	yes
+floods	4	"52.502267, -1.70836"	City of London	59	318	0.02	no
+watercolor	7	"53.18945,-2.888651"	Kent	41	123	0.04	no
+tempextremes	5	"52.192267,0.137208"	City of London	81	20	0.07	yes
+volcanoes	6	"54.894791,-2.931089"	Buckinghamshire	66	625	0.01	no
+watercolor	7	"53.190142,-2.886673"	Derbyshire	81	694	0.01	no
+earthquakes	3	"50.750023, -4.395419"	Gloucestershire	27	108	0.04	no
+volcanoes	6	"54.893532,-2.930093"	Nottinghamshire	15	198	0.03	no
+earthquakes	3	"53.655566, -0.787796"	West Midlands	33	163	0.03	no
+watercolor	7	"53.188607,-2.889651"	Lincolnshire	66	515	0.02	no
+wildfire	2	"53.744175, -2.477564"	Greater London	98	695	0.01	no
+dusthaze	8	"52.352438,0.420868"	Gloucestershire	95	635	0.01	no
+dusthaze	8	"52.501578, -1.703127"	West Midlands	20	159	0.03	no
+dusthaze	8	"52.501578, -1.703127"	Merseyside	87	127	0.04	no
+droughts	1	"51.34255, -0.766427"	Greater Manchester	70	659	0.01	no
+wildfire	2	"53.743042, -2.477049"	West Sussex	22	464	0.02	no
+floods	4	"51.430593,-2.408768"	County Durham	31	327	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Surrey	76	152	0.03	no
+earthquakes	3	"53.621936, -0.561011"	Lincolnshire	77	83	0.04	no
+volcanoes	6	"54.893917,-2.931381"	East Sussex	31	538	0.02	no
+droughts	1	"51.301148, -0.080311"	Cheshire	62	51	0.04	no
+tempextremes	5	"51.378849,-2.355562"	Essex	65	80	0.04	no
+wildfire	2	"52.914939, -1.465616"	Suffolk	81	151	0.03	no
+floods	4	"51.438727,-2.347839"	City of London	16	592	0.02	no
+dusthaze	8	"52.252009,0.397695"	Greater London	81	277	0.03	no
+dusthaze	8	"52.250454,0.398549"	City of London	56	188	0.03	no
+watercolor	7	"53.18945,-2.888651"	Northumberland	13	579	0.02	no
+watercolor	7	"53.187754,-2.887104"	North Yorkshire	10	525	0.02	no
+watercolor	7	"53.187754,-2.887104"	Oxfordshire	40	367	0.02	no
+wildfire	2	"53.802228, -1.75588"	Essex	85	586	0.02	no
+dusthaze	8	"52.501578, -1.703127"	Buckinghamshire	54	333	0.02	no
+floods	4	"52.502267, -1.70836"	Nottinghamshire	16	517	0.02	no
+dusthaze	8	"52.352438,0.420868"	Nottinghamshire	11	396	0.02	no
+earthquakes	3	"53.62355, -0.558431"	West Sussex	84	101	0.04	no
+volcanoes	6	"54.894791,-2.931089"	Buckinghamshire	14	590	0.02	no
+floods	4	"52.502298, -1.709848"	Shropshire	56	232	0.03	no
+watercolor	7	"53.188607,-2.889651"	Northumberland	80	316	0.02	no
+wildfire	2	"52.914939, -1.465616"	Derbyshire	81	474	0.02	no
+floods	4	"51.430593,-2.408768"	Derbyshire	11	381	0.02	no
+floods	4	"52.502298, -1.709848"	Kent	23	617	0.01	no
+droughts	1	"50.821384, -0.150627 "	Suffolk	17	172	0.03	no
+dusthaze	8	"52.250454,0.398549"	Derbyshire	80	689	0.01	no
+earthquakes	3	"53.622679, -0.565709"	Cheshire	39	288	0.03	no
+volcanoes	6	"54.894346,-2.931702"	Shropshire	60	397	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Lincolnshire	48	231	0.03	no
+droughts	1	"51.452464, -0.953699"	Greater Manchester	77	85	0.04	no
+watercolor	7	"53.187754,-2.887104"	Tyne and Wear	81	8	0.07	yes
+watercolor	7	"53.18945,-2.888651"	Northumberland	95	278	0.03	no
+earthquakes	3	"53.622679, -0.565709"	Nottinghamshire	42	586	0.02	no
+watercolor	7	"53.188509,-2.892222"	East Sussex	79	46	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	Surrey	45	90	0.04	no
+volcanoes	6	"54.893917,-2.931381"	North Yorkshire	90	255	0.03	no
+floods	4	"51.430593,-2.408768"	Essex	85	247	0.03	no
+tempextremes	5	"52.192267,0.137208"	Kent	33	37	0.07	yes
+earthquakes	3	"50.736206, -4.392418"	Kent	56	615	0.01	no
+earthquakes	3	"53.621041, -0.559832"	Cambridgeshire	14	566	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Cheshire	67	607	0.01	no
+dusthaze	8	"52.250454,0.398549"	East Sussex	66	105	0.04	no
+earthquakes	3	"53.622259, -0.563994"	West Sussex	27	215	0.03	no
+earthquakes	3	"53.622245, -0.559065"	County Durham	72	497	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Greater London	99	457	0.02	no
+dusthaze	8	"52.352438,0.420868"	Shropshire	96	129	0.04	no
+earthquakes	3	"53.620984, -0.566366"	East Sussex	66	262	0.03	no
+volcanoes	6	"54.893917,-2.931381"	Cheshire	88	562	0.02	no
+watercolor	7	"53.190142,-2.886673"	Tyne and Wear	30	571	0.02	no
+dusthaze	8	"52.252009,0.397695"	East Sussex	62	441	0.02	no
+tempextremes	5	"52.192267,0.137208"	Suffolk	67	657	0.01	no
+watercolor	7	"53.188509,-2.892222"	Surrey	30	151	0.03	no
+volcanoes	6	"54.893894,-2.929743"	Kent	92	199	0.03	no
+volcanoes	6	"54.894791,-2.931089"	North Yorkshire	92	97	0.04	no
+severestorms	9	"51.229835, -2.193459"	Tyne and Wear	95	146	0.04	no
+dusthaze	8	"52.352438,0.420868"	Greater Manchester	67	216	0.03	no
+wildfire	2	"53.744282, -2.473274"	Tyne and Wear	93	379	0.02	no
+droughts	1	"51.720686, -1.629782"	County Durham	62	96	0.04	no
+volcanoes	6	"54.894814,-2.930434"	Northumberland	98	480	0.02	no
+earthquakes	3	"50.750023, -4.395419"	Buckinghamshire	33	137	0.04	no
+floods	4	"52.500734, -1.706293"	City of London	38	238	0.03	no
+floods	4	"52.502267, -1.70836"	Cheshire	44	501	0.02	no
+earthquakes	3	"50.750926, -4.391852"	Shropshire	17	398	0.02	no
+severestorms	9	"51.22787, -2.193757"	Merseyside	67	571	0.02	no
+floods	4	"52.500609, -1.707671"	Cambridgeshire	73	619	0.01	no
+severestorms	9	"51.230545, -2.190775"	County Durham	55	494	0.02	no
+volcanoes	6	"54.894814,-2.930434"	0	35	534	0.02	no
+dusthaze	8	"52.250454,0.398549"	West Midlands	22	609	0.01	no
+volcanoes	6	"54.894791,-2.931089"	East Sussex	97	59	0.04	no
+dusthaze	8	"52.352438,0.420868"	Nottinghamshire	21	425	0.02	no
+droughts	1	"51.360609, 0.159776"	Derbyshire	60	38	0.07	yes
+volcanoes	6	"54.894814,-2.930434"	Nottinghamshire	78	111	0.04	no
+earthquakes	3	"53.621367, -0.559812"	Derbyshire	42	265	0.03	no
+earthquakes	3	"50.750023, -4.395419"	Surrey	10	550	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Lincolnshire	84	463	0.02	no
+floods	4	"52.500734, -1.706293"	Lincolnshire	75	254	0.03	no
+dusthaze	8	"52.24757,0.401394"	Lincolnshire	20	70	0.04	no
+earthquakes	3	"53.622245, -0.559065"	West Sussex	24	395	0.02	no
+dusthaze	8	"52.352438,0.420868"	Oxfordshire	49	573	0.02	no
+dusthaze	8	"52.25256,0.397124"	County Durham	55	629	0.01	no
+floods	4	"51.430593,-2.408768"	East Sussex	59	625	0.01	no
+volcanoes	6	"54.893532,-2.930093"	Derbyshire	72	666	0.01	no
+dusthaze	8	"52.24757,0.401394"	North Yorkshire	37	498	0.02	no
+tempextremes	5	"52.192267,0.137208"	Shropshire	65	623	0.01	no
+dusthaze	8	"52.352438,0.420868"	Greater London	93	415	0.02	no
+volcanoes	6	"54.894814,-2.930434"	West Midlands	40	445	0.02	no
+floods	4	"51.441301,-2.337974"	Shropshire	65	361	0.02	no
+wildfire	2	"53.647587, -2.308129"	Merseyside	77	322	0.02	no
+floods	4	"52.501051, -1.707499"	Derbyshire	54	57	0.04	no
+droughts	1	"50.814132, -0.37069"	Greater Manchester	64	635	0.01	no
+watercolor	7	"53.190142,-2.886673"	Gloucestershire	66	296	0.03	no
+volcanoes	6	"54.894814,-2.930434"	Surrey	36	482	0.02	no
+severestorms	9	"51.230545, -2.190775"	Greater Manchester	20	685	0.01	no
+dusthaze	8	"52.24757,0.401394"	Northumberland	81	15	0.07	yes
+floods	4	"52.502298, -1.709848"	Kent	96	527	0.02	no
+dusthaze	8	"52.501578, -1.703127"	Nottinghamshire	85	137	0.04	no
+volcanoes	6	"54.893894,-2.929743"	City of London	42	258	0.03	no
+watercolor	7	"53.18945,-2.888651"	Cheshire	50	572	0.02	no
+dusthaze	8	"52.25256,0.397124"	Lincolnshire	85	634	0.01	no
+volcanoes	6	"54.893894,-2.929743"	0	65	53	0.04	no
+severestorms	9	"51.229835, -2.193459"	Nottinghamshire	34	580	0.02	no
+wildfire	2	"52.914939, -1.465616"	Northumberland	45	616	0.01	no
+volcanoes	6	"54.894791,-2.931089"	Oxfordshire	71	648	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Cambridgeshire	17	586	0.02	no
+dusthaze	8	"52.24757,0.401394"	Greater Manchester	81	483	0.02	no
+volcanoes	6	"54.894814,-2.930434"	Buckinghamshire	69	299	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Tyne and Wear	58	422	0.02	no
+watercolor	7	"53.188607,-2.889651"	Surrey	20	321	0.02	no
+watercolor	7	"53.190042,-2.887631"	Gloucestershire	96	311	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Cambridgeshire	47	313	0.02	no
+floods	4	"52.500734, -1.706293"	East Sussex	16	246	0.03	no
+wildfire	2	"53.742346, -2.47627"	North Yorkshire	82	207	0.03	no
+volcanoes	6	"54.894814,-2.930434"	Greater Manchester	78	267	0.03	no
+volcanoes	6	"54.893917,-2.931381"	Tyne and Wear	17	436	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Lincolnshire	91	639	0.01	no
+tempextremes	5	"52.192267,0.137208"	Shropshire	49	540	0.02	no
+floods	4	"51.441301,-2.337974"	Tyne and Wear	19	501	0.02	no
+tempextremes	5	"52.192267,0.137208"	Essex	62	644	0.01	no
+droughts	1	"51.406423, 0.012595"	Surrey	88	331	0.02	no
+tempextremes	5	"52.192267,0.137208"	Kent	70	588	0.02	no
+earthquakes	3	"53.622245, -0.559065"	Kent	26	630	0.01	no
+tempextremes	5	"52.192267,0.137208"	City of London	54	321	0.02	no
+earthquakes	3	"53.625017, -0.559379"	Surrey	40	648	0.01	no
+watercolor	7	"53.188607,-2.889651"	Gloucestershire	28	562	0.02	no
+floods	4	"52.502298, -1.709848"	Merseyside	41	351	0.02	no
+wildfire	2	"53.743042, -2.477049"	Oxfordshire	10	675	0.01	no
+tempextremes	5	"51.378849,-2.355562"	Cheshire	27	427	0.02	no
+severestorms	9	"51.230545, -2.190775"	County Durham	53	190	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Greater Manchester	93	58	0.04	no
+droughts	1	"51.303163, -0.086941"	West Sussex	38	615	0.01	no
+droughts	1	"50.784212, -1.791718"	Derbyshire	98	154	0.03	no
+watercolor	7	"53.187754,-2.887104"	West Midlands	95	625	0.01	no
+dusthaze	8	"52.352438,0.420868"	Oxfordshire	25	152	0.03	no
+droughts	1	"51.343614, -0.770118"	West Sussex	96	471	0.02	no
+earthquakes	3	"53.62355, -0.558431"	County Durham	64	490	0.02	no
+watercolor	7	"53.190042,-2.887631"	Greater London	31	152	0.03	no
+earthquakes	3	"53.62355, -0.558431"	Greater Manchester	67	248	0.03	no
+watercolor	7	"53.187754,-2.887104"	Cheshire	19	633	0.01	no
+dusthaze	8	"52.252009,0.397695"	West Midlands	54	576	0.02	no
+dusthaze	8	"52.352438,0.420868"	Cambridgeshire	86	244	0.03	no
+earthquakes	3	"50.748493, -4.414607"	Greater London	20	181	0.03	no
+watercolor	7	"53.188509,-2.892222"	Essex	18	63	0.04	no
+watercolor	7	"53.18945,-2.888651"	City of London	74	482	0.02	no
+earthquakes	3	"50.750023, -4.395419"	Shropshire	27	682	0.01	no
+earthquakes	3	"53.620984, -0.566366"	Merseyside	52	548	0.02	no
+droughts	1	"51.301148, -0.080311"	Derbyshire	58	396	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Northumberland	22	418	0.02	no
+earthquakes	3	"53.621936, -0.561011"	Cambridgeshire	23	74	0.04	no
+floods	4	"52.502298, -1.709848"	Greater London	58	37	0.07	yes
+earthquakes	3	"53.621367, -0.559812"	West Sussex	65	410	0.02	no
+earthquakes	3	"53.620984, -0.566366"	County Durham	64	356	0.02	no
+volcanoes	6	"54.893532,-2.930093"	Cambridgeshire	47	544	0.02	no
+earthquakes	3	"53.621041, -0.559832"	Gloucestershire	23	143	0.04	no
+severestorms	9	"52.388014, -1.958608"	Oxfordshire	44	148	0.04	no
+volcanoes	6	"54.894791,-2.931089"	Greater Manchester	40	285	0.03	no
+droughts	1	"51.594468, -0.678726"	Buckinghamshire	56	321	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Nottinghamshire	88	149	0.04	no
+wildfire	2	"53.792217, -1.7505"	Cambridgeshire	45	335	0.02	no
+severestorms	9	"51.230545, -2.190775"	Essex	78	258	0.03	no
+volcanoes	6	"54.894814,-2.930434"	Surrey	19	253	0.03	no
+floods	4	"52.502267, -1.70836"	Kent	19	282	0.03	no
+dusthaze	8	"52.501578, -1.703127"	Surrey	95	260	0.03	no
+watercolor	7	"53.18945,-2.888651"	County Durham	93	330	0.02	no
+watercolor	7	"53.18945,-2.888651"	Gloucestershire	95	260	0.03	no
+droughts	1	"51.588532, -0.681829"	City of London	78	163	0.03	no
+tempextremes	5	"52.192267,0.137208"	Shropshire	56	491	0.02	no
+earthquakes	3	"50.736206, -4.392418"	County Durham	27	376	0.02	no
+earthquakes	3	"50.748493, -4.414607"	Kent	79	502	0.02	no
+dusthaze	8	"52.25256,0.397124"	Merseyside	39	622	0.01	no
+wildfire	2	"53.744136, -2.480475"	Northumberland	26	661	0.01	no
+watercolor	7	"53.188607,-2.889651"	Suffolk	24	375	0.02	no
+severestorms	9	"51.230545, -2.190775"	Gloucestershire	33	73	0.04	no
+wildfire	2	"52.914939, -1.465616"	Northumberland	85	550	0.02	no
+watercolor	7	"53.188607,-2.889651"	Surrey	23	449	0.02	no
+severestorms	9	"51.231182, -2.186065"	County Durham	35	685	0.01	no
+dusthaze	8	"52.352438,0.420868"	Suffolk	87	453	0.02	no
+dusthaze	8	"52.252009,0.397695"	Derbyshire	75	365	0.02	no
+droughts	1	"51.360609, 0.159776"	North Yorkshire	89	207	0.03	no
+earthquakes	3	"50.750926, -4.391852"	Buckinghamshire	58	29	0.07	yes
+tempextremes	5	"52.192267,0.137208"	Greater London	47	484	0.02	no
+droughts	1	"51.303163, -0.086941"	Essex	65	651	0.01	no
+dusthaze	8	"52.252009,0.397695"	0	92	149	0.04	no
+wildfire	2	"52.914939, -1.465616"	Suffolk	31	437	0.02	no
+tempextremes	5	"51.378849,-2.355562"	0	77	307	0.02	no
+earthquakes	3	"53.62355, -0.558431"	Gloucestershire	66	612	0.01	no
+wildfire	2	"53.745902, -2.472686"	Northumberland	13	5	0.07	yes
+watercolor	7	"53.190042,-2.887631"	Merseyside	16	481	0.02	no
+droughts	1	"51.301148, -0.080311"	Greater London	80	52	0.04	no
+wildfire	2	"53.792524, -1.751014"	Essex	43	323	0.02	no
+floods	4	"52.500609, -1.707671"	Buckinghamshire	24	490	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Tyne and Wear	37	439	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Merseyside	49	684	0.01	no
+severestorms	9	"51.182197, -2.104447"	Gloucestershire	78	397	0.02	no
+severestorms	9	"51.231182, -2.186065"	0	14	494	0.02	no
+dusthaze	8	"52.352438,0.420868"	Buckinghamshire	40	121	0.04	no
+watercolor	7	"53.187754,-2.887104"	Cambridgeshire	43	549	0.02	no
+wildfire	2	"52.914939, -1.465616"	Suffolk	56	94	0.04	no
+volcanoes	6	"54.893917,-2.931381"	Oxfordshire	32	226	0.03	no
+dusthaze	8	"52.250454,0.398549"	Shropshire	39	97	0.04	no
+droughts	1	"51.736885, -1.655441"	North Yorkshire	90	152	0.03	no
+severestorms	9	"51.229835, -2.193459"	Kent	62	562	0.02	no
+droughts	1	"50.844031, -0.153183"	Lincolnshire	32	225	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Lincolnshire	90	143	0.04	no
+floods	4	"52.501834, -1.708503"	County Durham	20	694	0.01	no
+floods	4	"52.500734, -1.706293"	North Yorkshire	15	257	0.03	no
+droughts	1	"51.590289, -0.681345"	Derbyshire	45	480	0.02	no
+severestorms	9	"51.182197, -2.104447"	0	55	265	0.03	no
+floods	4	"52.502267, -1.70836"	Gloucestershire	21	274	0.03	no
+volcanoes	6	"54.894814,-2.930434"	Gloucestershire	39	448	0.02	no
+droughts	1	"51.406423, 0.012595"	0	20	413	0.02	no
+droughts	1	"51.428039, 0.014365"	Lincolnshire	93	560	0.02	no
+dusthaze	8	"52.252009,0.397695"	Northumberland	21	673	0.01	no
+tempextremes	5	"51.378849,-2.355562"	Northumberland	37	583	0.02	no
+dusthaze	8	"52.501578, -1.703127"	East Sussex	71	503	0.02	no
+droughts	1	"51.720989, -1.647817"	0	93	524	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Oxfordshire	51	130	0.04	no
+tempextremes	5	"52.192267,0.137208"	Suffolk	52	327	0.02	no
+droughts	1	"51.343614, -0.770118"	West Sussex	94	399	0.02	no
+wildfire	2	"53.792217, -1.7505"	City of London	78	134	0.04	no
+floods	4	"52.501381, -1.706348"	North Yorkshire	98	573	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Tyne and Wear	85	571	0.02	no
+watercolor	7	"53.187754,-2.887104"	Lincolnshire	78	45	0.07	yes
+earthquakes	3	"50.750926, -4.391852"	Suffolk	22	596	0.02	no
+watercolor	7	"53.188607,-2.889651"	Derbyshire	13	671	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Northumberland	14	199	0.03	no
+tempextremes	5	"52.192267,0.137208,,"	Cheshire	32	485	0.02	no
+dusthaze	8	"52.24757,0.401394"	East Sussex	56	222	0.03	no
+tempextremes	5	"52.192267,0.137208,,"	Cheshire	20	568	0.02	no
+earthquakes	3	"50.750926, -4.391852"	West Sussex	36	378	0.02	no
+wildfire	2	"53.58222, -2.445691"	Kent	28	54	0.04	no
+floods	4	"52.502298, -1.709848"	East Sussex	59	186	0.03	no
+volcanoes	6	"54.893917,-2.931381"	Greater Manchester	88	292	0.03	no
+dusthaze	8	"52.352438,0.420868"	North Yorkshire	77	309	0.02	no
+severestorms	9	"51.229835, -2.193459"	Kent	10	316	0.02	no
+floods	4	"52.500734, -1.706293"	County Durham	54	384	0.02	no
+droughts	1	"51.588532, -0.681829"	East Sussex	68	700	0.01	no
+severestorms	9	"51.182197, -2.104447"	Tyne and Wear	69	118	0.04	no
+watercolor	7	"53.18945,-2.888651"	Oxfordshire	86	165	0.03	no
+floods	4	"51.430593,-2.408768"	East Sussex	94	598	0.02	no
+droughts	1	"51.428039, 0.014365"	Shropshire	88	401	0.02	no
+wildfire	2	"53.792524, -1.751014"	Cheshire	14	221	0.03	no
+dusthaze	8	"52.252009,0.397695"	Greater Manchester	75	564	0.02	no
+tempextremes	5	"52.192267,0.137208"	Cheshire	10	524	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Lincolnshire	70	422	0.02	no
+floods	4	"51.441506,-2.354437"	Cambridgeshire	51	628	0.01	no
+watercolor	7	"53.18945,-2.888651"	Northumberland	89	132	0.04	no
+droughts	1	"50.772348, -1.779397"	Buckinghamshire	82	608	0.01	no
+earthquakes	3	"53.621936, -0.561011"	West Midlands	49	249	0.03	no
+volcanoes	6	"54.893894,-2.929743"	North Yorkshire	30	213	0.03	no
+volcanoes	6	"54.893894,-2.929743"	West Midlands	84	439	0.02	no
+earthquakes	3	"53.622259, -0.563994"	East Sussex	77	516	0.02	no
+wildfire	2	"53.792789, -1.750545"	Gloucestershire	31	80	0.04	no
+droughts	1	"51.360609, 0.159776"	Gloucestershire	80	308	0.02	no
+tempextremes	5	"51.378849,-2.355562"	City of London	62	328	0.02	no
+severestorms	9	"51.230545, -2.190775"	City of London	54	427	0.02	no
+earthquakes	3	"53.620984, -0.566366"	Northumberland	58	102	0.04	no
+watercolor	7	"53.188607,-2.889651"	Northumberland	82	171	0.03	no
+droughts	1	"51.360609, 0.159776"	Shropshire	61	682	0.01	no
+watercolor	7	"53.187754,-2.887104"	Oxfordshire	76	186	0.03	no
+volcanoes	6	"54.894814,-2.930434"	Oxfordshire	42	566	0.02	no
+wildfire	2	"53.582279, -2.446658"	Surrey	87	669	0.01	no
+droughts	1	"51.303163, -0.086941"	Shropshire	97	492	0.02	no
+wildfire	2	"53.792789, -1.750545"	Suffolk	91	135	0.04	no
+dusthaze	8	"52.250454,0.398549"	County Durham	93	165	0.03	no
+wildfire	2	"53.792723, -1.751681"	Buckinghamshire	60	619	0.01	no
+volcanoes	6	"54.894814,-2.930434"	Shropshire	84	515	0.02	no
+droughts	1	"50.850164, -0.150313"	Buckinghamshire	66	373	0.02	no
+volcanoes	6	"54.893917,-2.931381"	City of London	20	627	0.01	no
+severestorms	9	"51.230545, -2.190775"	Greater London	48	81	0.04	no
+droughts	1	"51.588532, -0.681829"	North Yorkshire	87	32	0.07	yes
+watercolor	7	"53.188509,-2.892222"	West Midlands	91	688	0.01	no
+dusthaze	8	"52.25256,0.397124"	West Sussex	56	300	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Buckinghamshire	84	388	0.02	no
+severestorms	9	"51.229835, -2.193459"	Essex	91	588	0.02	no
+earthquakes	3	"53.655566, -0.787796"	West Sussex	30	392	0.02	no
+severestorms	9	"51.182197, -2.104447"	Northumberland	49	9	0.07	yes
+severestorms	9	"52.388014, -1.958608"	City of London	13	487	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Suffolk	63	205	0.03	no
+tempextremes	5	"52.192267,0.137208"	Surrey	70	25	0.07	yes
+wildfire	2	"53.745902, -2.472686"	Buckinghamshire	51	238	0.03	no
+severestorms	9	"51.182197, -2.104447"	Buckinghamshire	76	686	0.01	no
+severestorms	9	"51.229835, -2.193459"	Shropshire	74	530	0.02	no
+floods	4	"51.438727,-2.347839"	North Yorkshire	27	279	0.03	no
+watercolor	7	"53.190042,-2.887631"	City of London	10	549	0.02	no
+droughts	1	"50.772348, -1.779397"	North Yorkshire	93	519	0.02	no
+droughts	1	"50.844031, -0.153183"	Buckinghamshire	33	213	0.03	no
+dusthaze	8	"52.250454,0.398549"	Suffolk	35	692	0.01	no
+wildfire	2	"53.744282, -2.473274"	0	34	142	0.04	no
+watercolor	7	"53.188607,-2.889651"	Cheshire	15	229	0.03	no
+dusthaze	8	"52.25256,0.397124"	City of London	40	108	0.04	no
+droughts	1	"51.737307, -1.65496"	North Yorkshire	48	324	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Nottinghamshire	40	570	0.02	no
+earthquakes	3	"53.621041, -0.559832"	Lincolnshire	14	509	0.02	no
+wildfire	2	"52.914939, -1.465616"	Greater Manchester	59	559	0.02	no
+volcanoes	6	"54.893917,-2.931381"	City of London	34	181	0.03	no
+droughts	1	"51.430134, -0.006175"	Buckinghamshire	94	136	0.04	no
+tempextremes	5	"52.192267,0.137208"	Oxfordshire	96	679	0.01	no
+earthquakes	3	"53.621956, -0.568707"	Oxfordshire	58	543	0.02	no
+dusthaze	8	"52.24757,0.401394"	Greater Manchester	40	613	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Greater London	43	400	0.02	no
+tempextremes	5	"52.192267,0.137208"	Gloucestershire	31	186	0.03	no
+tempextremes	5	"52.192267,0.137208"	West Sussex	20	669	0.01	no
+wildfire	2	"53.547162, -2.007025"	Greater Manchester	68	85	0.04	no
+volcanoes	6	"54.894814,-2.930434"	Northumberland	100	32	0.07	yes
+tempextremes	5	"51.378849,-2.355562"	Tyne and Wear	33	166	0.03	no
+tempextremes	5	"51.378849,-2.355562"	West Sussex	61	693	0.01	no
+watercolor	7	"53.190042,-2.887631"	Essex	52	294	0.03	no
+dusthaze	8	"52.24757,0.401394"	Merseyside	84	421	0.02	no
+wildfire	2	"52.914939, -1.465616"	Gloucestershire	35	211	0.03	no
+droughts	1	"51.588532, -0.681829"	Greater Manchester	71	544	0.02	no
+severestorms	9	"51.182197, -2.104447"	Oxfordshire	100	327	0.02	no
+wildfire	2	"53.743042, -2.477049"	Gloucestershire	18	389	0.02	no
+floods	4	"51.441301,-2.337974"	North Yorkshire	84	345	0.02	no
+wildfire	2	"53.802228, -1.75588"	Northumberland	29	204	0.03	no
+severestorms	9	"51.182197, -2.104447"	Gloucestershire	94	185	0.03	no
+earthquakes	3	"50.756389, -4.388045"	City of London	38	225	0.03	no
+severestorms	9	"52.388014, -1.958608"	0	82	107	0.04	no
+watercolor	7	"53.190142,-2.886673"	North Yorkshire	78	221	0.03	no
+tempextremes	5	"52.192267,0.137208"	Buckinghamshire	52	120	0.04	no
+wildfire	2	"53.74219, -2.474858"	County Durham	78	539	0.02	no
+tempextremes	5	"51.378849,-2.355562"	0	67	324	0.02	no
+dusthaze	8	"52.501578, -1.703127"	Cambridgeshire	31	234	0.03	no
+floods	4	"51.438727,-2.347839"	Derbyshire	97	413	0.02	no
+earthquakes	3	"53.621956, -0.568707"	Merseyside	96	312	0.02	no
+severestorms	9	"52.388014, -1.958608"	Greater Manchester	86	180	0.03	no
+volcanoes	6	"54.894791,-2.931089"	Derbyshire	89	96	0.04	no
+volcanoes	6	"54.894791,-2.931089"	Northumberland	18	367	0.02	no
+dusthaze	8	"52.25256,0.397124"	Derbyshire	54	616	0.01	no
+droughts	1	"51.406423, 0.012595"	Essex	30	56	0.04	no
+dusthaze	8	"52.352438,0.420868"	Cambridgeshire	46	520	0.02	no
+tempextremes	5	"52.192267,0.137208"	Essex	81	635	0.01	no
+wildfire	2	"53.744282, -2.473274"	Shropshire	27	530	0.02	no
+earthquakes	3	"53.621041, -0.559832"	City of London	92	585	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Surrey	10	323	0.02	no
+wildfire	2	"53.746292, -2.476193"	Tyne and Wear	11	133	0.04	no
+dusthaze	8	"52.352438,0.420868"	Surrey	36	147	0.04	no
+watercolor	7	"53.188607,-2.889651"	Cambridgeshire	63	437	0.02	no
+wildfire	2	"53.746292, -2.476193"	0	87	379	0.02	no
+droughts	1	"50.812852, -0.401733"	Suffolk	61	308	0.02	no
+droughts	1	"51.590289, -0.681345"	Derbyshire	91	199	0.03	no
+wildfire	2	"53.744284, -2.476638"	0	48	605	0.01	no
+severestorms	9	"51.22787, -2.193757"	West Midlands	13	510	0.02	no
+droughts	1	"51.720686, -1.629782"	City of London	20	103	0.04	no
+droughts	1	"51.592305, -0.677504"	Derbyshire	77	563	0.02	no
+wildfire	2	"53.744136, -2.480475"	County Durham	99	23	0.07	yes
+volcanoes	6	"54.893532,-2.930093"	Tyne and Wear	12	623	0.01	no
+droughts	1	"50.772348, -1.779397"	Kent	28	216	0.03	no
+volcanoes	6	"54.893917,-2.931381"	West Midlands	69	118	0.04	no
+wildfire	2	"53.745902, -2.472686"	Oxfordshire	95	561	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Cambridgeshire	25	624	0.01	no
+earthquakes	3	"53.622259, -0.563994"	Oxfordshire	43	27	0.07	yes
+droughts	1	"51.428039, 0.014365"	Kent	11	108	0.04	no
+earthquakes	3	"50.736206, -4.392418"	East Sussex	96	196	0.03	no
+droughts	1	"50.757431, -1.70737"	0	84	105	0.04	no
+wildfire	2	"52.914939, -1.465616"	Northumberland	24	638	0.01	no
+watercolor	7	"53.190142,-2.886673"	Oxfordshire	29	106	0.04	no
+watercolor	7	"53.188509,-2.892222"	Tyne and Wear	44	250	0.03	no
+tempextremes	5	"52.192267,0.137208"	Cheshire	38	652	0.01	no
+droughts	1	"50.821384, -0.150627 "	Surrey	20	332	0.02	no
+earthquakes	3	"53.621956, -0.568707"	Surrey	53	10	0.07	yes
+floods	4	"52.501051, -1.707499"	Essex	39	297	0.03	no
+droughts	1	"50.784212, -1.791718"	City of London	39	136	0.04	no
+floods	4	"52.500997, -1.710946"	County Durham	14	547	0.02	no
+droughts	1	"51.590289, -0.681345"	Oxfordshire	31	161	0.03	no
+dusthaze	8	"52.352438,0.420868"	West Sussex	69	416	0.02	no
+floods	4	"51.430593,-2.408768"	East Sussex	98	690	0.01	no
+volcanoes	6	"54.894814,-2.930434"	Greater Manchester	69	173	0.03	no
+floods	4	"52.500734, -1.706293"	Cambridgeshire	89	73	0.04	no
+watercolor	7	"53.18945,-2.888651"	Shropshire	91	593	0.02	no
+earthquakes	3	"53.655566, -0.787796"	Nottinghamshire	53	416	0.02	no
+severestorms	9	"52.388014, -1.958608"	Suffolk	99	378	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Shropshire	77	363	0.02	no
+volcanoes	6	"54.893917,-2.931381"	0	28	357	0.02	no
+volcanoes	6	"54.894791,-2.931089"	Kent	88	659	0.01	no
+tempextremes	5	"52.192267,0.137208"	Kent	74	402	0.02	no
+watercolor	7	"53.190142,-2.886673"	Northumberland	83	128	0.04	no
+wildfire	2	"53.58222, -2.445691"	Oxfordshire	19	77	0.04	no
+earthquakes	3	"53.655566, -0.787796"	Nottinghamshire	92	318	0.02	no
+earthquakes	3	"53.62355, -0.558431"	Cheshire	38	442	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Greater London	22	87	0.04	no
+droughts	1	"51.303163, -0.086941"	Cheshire	56	101	0.04	no
+tempextremes	5	"51.378849,-2.355562"	Derbyshire	100	683	0.01	no
+volcanoes	6	"54.893917,-2.931381"	East Sussex	49	245	0.03	no
+volcanoes	6	"54.893532,-2.930093"	County Durham	60	482	0.02	no
+wildfire	2	"52.914939, -1.465616"	Derbyshire	78	472	0.02	no
+dusthaze	8	"52.501578, -1.703127"	Tyne and Wear	73	559	0.02	no
+watercolor	7	"53.18945,-2.888651"	Tyne and Wear	16	134	0.04	no
+watercolor	7	"53.18945,-2.888651"	0	81	614	0.01	no
+severestorms	9	"51.231182, -2.186065"	Surrey	100	10	0.07	yes
+watercolor	7	"53.188607,-2.889651"	East Sussex	39	489	0.02	no
+earthquakes	3	"53.621414, -0.564673"	Suffolk	34	552	0.02	no
+tempextremes	5	"52.192267,0.137208"	West Midlands	56	154	0.03	no
+floods	4	"51.438727,-2.347839"	County Durham	80	189	0.03	no
+wildfire	2	"52.914939, -1.465616"	Merseyside	84	346	0.02	no
+watercolor	7	"53.190042,-2.887631"	East Sussex	63	466	0.02	no
+wildfire	2	"53.746292, -2.476193"	Cambridgeshire	76	471	0.02	no
+watercolor	7	"53.190142,-2.886673"	Merseyside	97	132	0.04	no
+volcanoes	6	"54.894814,-2.930434"	Essex	38	149	0.04	no
+tempextremes	5	"52.192267,0.137208"	Kent	100	473	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Shropshire	11	662	0.01	no
+watercolor	7	"53.188607,-2.889651"	Gloucestershire	84	541	0.02	no
+earthquakes	3	"53.622259, -0.563994"	North Yorkshire	63	485	0.02	no
+floods	4	"52.502267, -1.70836"	East Sussex	63	148	0.04	no
+severestorms	9	"51.231182, -2.186065"	County Durham	82	306	0.02	no
+watercolor	7	"53.187754,-2.887104"	Oxfordshire	42	424	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Lincolnshire	97	390	0.02	no
+earthquakes	3	"50.748493, -4.414607"	Suffolk	20	238	0.03	no
+volcanoes	6	"54.894346,-2.931702"	Greater London	12	217	0.03	no
+earthquakes	3	"53.621367, -0.559812"	Surrey	14	91	0.04	no
+severestorms	9	"52.388014, -1.958608"	Essex	84	605	0.01	no
+dusthaze	8	"52.352438,0.420868"	Buckinghamshire	27	338	0.02	no
+wildfire	2	"52.914939, -1.465616"	Cheshire	89	477	0.02	no
+watercolor	7	"53.190042,-2.887631"	Suffolk	22	395	0.02	no
+wildfire	2	"53.582669, -2.44393"	Essex	70	575	0.02	no
+earthquakes	3	"53.622245, -0.559065"	North Yorkshire	29	402	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Buckinghamshire	32	569	0.02	no
+severestorms	9	"51.22787, -2.193757"	Northumberland	24	242	0.03	no
+wildfire	2	"53.802228, -1.75588"	West Midlands	97	201	0.03	no
+droughts	1	"50.814132, -0.37069"	Merseyside	33	94	0.04	no
+severestorms	9	"51.230545, -2.190775"	West Midlands	35	5	0.07	yes
+dusthaze	8	"52.250454,0.398549"	Derbyshire	38	179	0.03	no
+severestorms	9	"51.182197, -2.104447"	Kent	93	111	0.04	no
+earthquakes	3	"53.622259, -0.563994"	Cheshire	58	671	0.01	no
+watercolor	7	"53.18945,-2.888651"	North Yorkshire	96	540	0.02	no
+dusthaze	8	"52.252009,0.397695"	Greater Manchester	78	550	0.02	no
+tempextremes	5	"52.192267,0.137208,,"	Greater London	39	110	0.04	no
+severestorms	9	"51.229835, -2.193459"	Gloucestershire	96	462	0.02	no
+severestorms	9	"52.388014, -1.958608"	Surrey	45	261	0.03	no
+dusthaze	8	"52.252009,0.397695"	Greater London	74	236	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Oxfordshire	71	39	0.07	yes
+wildfire	2	"53.744136, -2.480475"	West Sussex	42	399	0.02	no
+floods	4	"51.430593,-2.408768"	County Durham	99	253	0.03	no
+wildfire	2	"53.74219, -2.474858"	Greater Manchester	65	456	0.02	no
+volcanoes	6	"54.894814,-2.930434"	County Durham	73	633	0.01	no
+tempextremes	5	"52.192267,0.137208"	Northumberland	83	550	0.02	no
+droughts	1	"50.821384, -0.150627 "	East Sussex	66	404	0.02	no
+dusthaze	8	"52.24757,0.401394"	Surrey	56	52	0.04	no
+wildfire	2	"53.742346, -2.47627"	Nottinghamshire	20	667	0.01	no
+wildfire	2	"52.914939, -1.465616"	Greater London	31	111	0.04	no
+wildfire	2	"52.914939, -1.465616"	Greater London	71	320	0.02	no
+floods	4	"52.500609, -1.707671"	Cheshire	17	637	0.01	no
+floods	4	"52.501834, -1.708503"	East Sussex	26	388	0.02	no
+severestorms	9	"51.22787, -2.193757"	West Midlands	58	29	0.07	yes
+earthquakes	3	"53.621956, -0.568707"	0	86	472	0.02	no
+floods	4	"52.502298, -1.709848"	Gloucestershire	12	528	0.02	no
+floods	4	"51.438727,-2.347839"	Shropshire	11	209	0.03	no
+severestorms	9	"51.230545, -2.190775"	Lincolnshire	37	172	0.03	no
+tempextremes	5	"52.192267,0.137208,,"	Essex	69	6	0.07	yes
+severestorms	9	"51.22787, -2.193757"	City of London	79	226	0.03	no
+wildfire	2	"53.742346, -2.47627"	Cheshire	41	171	0.03	no
+dusthaze	8	"52.352438,0.420868"	City of London	21	491	0.02	no
+dusthaze	8	"52.250454,0.398549"	Nottinghamshire	74	552	0.02	no
+tempextremes	5	"51.378849,-2.355562"	Nottinghamshire	58	307	0.02	no
+watercolor	7	"53.18945,-2.888651"	Cambridgeshire	49	175	0.03	no
+volcanoes	6	"54.893532,-2.930093"	Gloucestershire	11	477	0.02	no
+volcanoes	6	"54.894814,-2.930434"	Lincolnshire	94	227	0.03	no
+earthquakes	3	"50.757428, -4.44438"	County Durham	26	340	0.02	no
+watercolor	7	"53.190142,-2.886673"	Greater London	90	689	0.01	no
+tempextremes	5	"52.192267,0.137208,,"	West Midlands	80	258	0.03	no
+wildfire	2	"53.547162, -2.007025"	Gloucestershire	41	117	0.04	no
+floods	4	"52.501834, -1.708503"	North Yorkshire	98	440	0.02	no
+watercolor	7	"53.18945,-2.888651"	0	89	94	0.04	no
+floods	4	"51.430593,-2.408768"	Merseyside	87	629	0.01	no
+earthquakes	3	"53.622679, -0.565709"	Shropshire	54	205	0.03	no
+droughts	1	"50.772348, -1.779397"	Greater Manchester	42	584	0.02	no
+wildfire	2	"52.914939, -1.465616"	Cheshire	96	617	0.01	no
+tempextremes	5	"52.192267,0.137208,,"	Essex	61	305	0.02	no
+tempextremes	5	"51.378849,-2.355562"	West Sussex	49	501	0.02	no
+wildfire	2	"53.802228, -1.75588"	Tyne and Wear	18	24	0.07	yes
+tempextremes	5	"52.192267,0.137208"	Tyne and Wear	20	418	0.02	no
+volcanoes	6	"54.894791,-2.931089"	West Sussex	11	116	0.04	no
+dusthaze	8	"52.501578, -1.703127"	Surrey	51	676	0.01	no
+dusthaze	8	"52.252009,0.397695"	West Midlands	22	534	0.02	no
+watercolor	7	"53.18945,-2.888651"	North Yorkshire	32	546	0.02	no
+floods	4	"52.500218, -1.708418"	Nottinghamshire	93	538	0.02	no
+volcanoes	6	"54.894346,-2.931702"	Surrey	28	554	0.02	no
+dusthaze	8	"52.24757,0.401394"	Greater London	84	34	0.07	yes
+dusthaze	8	"52.250454,0.398549"	City of London	25	237	0.03	no
+wildfire	2	"53.802228, -1.75588"	Derbyshire	63	689	0.01	no
+droughts	1	"50.772348, -1.779397"	Suffolk	42	671	0.01	no
+severestorms	9	"51.229835, -2.193459"	Essex	67	366	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Oxfordshire	44	347	0.02	no
+tempextremes	5	"52.192267,0.137208"	Gloucestershire	65	694	0.01	no
+droughts	1	"50.814132, -0.37069"	Northumberland	28	348	0.02	no
+watercolor	7	"53.188607,-2.889651"	Buckinghamshire	77	154	0.03	no
+wildfire	2	"52.914939, -1.465616"	North Yorkshire	88	662	0.01	no
+dusthaze	8	"52.352438,0.420868"	Oxfordshire	11	5	0.07	yes
+floods	4	"51.430593,-2.408768"	Tyne and Wear	60	626	0.01	no
+volcanoes	6	"54.894346,-2.931702"	Greater Manchester	48	406	0.02	no
+wildfire	2	"53.745902, -2.472686"	0	62	575	0.02	no
+dusthaze	8	"52.501578, -1.703127"	West Sussex	11	77	0.04	no
+volcanoes	6	"54.893532,-2.930093"	West Midlands	77	196	0.03	no
+dusthaze	8	"52.252009,0.397695"	Oxfordshire	35	22	0.07	yes
+dusthaze	8	"52.24757,0.401394"	County Durham	14	46	0.07	yes
+severestorms	9	"52.388014, -1.958608"	County Durham	16	372	0.02	no
+volcanoes	6	"54.893894,-2.929743"	County Durham	25	642	0.01	no
+floods	4	"52.500997, -1.710946"	North Yorkshire	70	595	0.02	no
+droughts	1	"51.720989, -1.647817"	Merseyside	76	568	0.02	no
+watercolor	7	"53.187754,-2.887104"	West Midlands	61	411	0.02	no
+floods	4	"52.500609, -1.707671"	Kent	98	193	0.03	no
+earthquakes	3	"50.750023, -4.395419"	Oxfordshire	52	536	0.02	no
+severestorms	9	"51.182197, -2.104447"	Merseyside	13	55	0.04	no
+earthquakes	3	"53.622679, -0.565709"	Surrey	15	647	0.01	no
+droughts	1	"51.343614, -0.770118"	Derbyshire	18	230	0.03	no
+droughts	1	"51.954236, -1.604901"	Nottinghamshire	58	662	0.01	no
+watercolor	7	"53.18945,-2.888651"	West Midlands	86	260	0.03	no
+tempextremes	5	"52.192267,0.137208"	Cheshire	67	628	0.01	no
+dusthaze	8	"52.25256,0.397124"	Gloucestershire	74	302	0.02	no
+wildfire	2	"53.745902, -2.472686"	Derbyshire	19	23	0.07	yes
+volcanoes	6	"54.893917,-2.931381"	Northumberland	40	65	0.04	no
+wildfire	2	"53.744282, -2.473274"	Greater Manchester	96	173	0.03	no
+floods	4	"51.441301,-2.337974"	Surrey	84	469	0.02	no
+tempextremes	5	"52.192267,0.137208"	Nottinghamshire	42	464	0.02	no
+tempextremes	5	"52.192267,0.137208"	Derbyshire	14	72	0.04	no
+volcanoes	6	"54.893917,-2.931381"	Surrey	75	227	0.03	no
+severestorms	9	"51.230545, -2.190775"	North Yorkshire	78	683	0.01	no
+watercolor	7	"53.190042,-2.887631"	Nottinghamshire	21	77	0.04	no
+watercolor	7	"53.188509,-2.892222"	City of London	46	152	0.03	no
+wildfire	2	"53.744136, -2.480475"	Tyne and Wear	51	474	0.02	no
+watercolor	7	"53.188509,-2.892222"	Northumberland	69	441	0.02	no
+severestorms	9	"51.229835, -2.193459"	Shropshire	87	21	0.07	yes
+volcanoes	6	"54.893894,-2.929743"	Cambridgeshire	85	209	0.03	no
+severestorms	9	"51.182197, -2.104447"	Gloucestershire	74	582	0.02	no
+volcanoes	6	"54.894814,-2.930434"	Kent	53	598	0.02	no
+floods	4	"52.501834, -1.708503"	West Midlands	92	197	0.03	no
+watercolor	7	"53.18945,-2.888651"	Oxfordshire	95	269	0.03	no
+droughts	1	"51.360609, 0.159776"	Buckinghamshire	57	207	0.03	no
+volcanoes	6	"54.894814,-2.930434"	0	59	509	0.02	no
+watercolor	7	"53.188509,-2.892222"	Buckinghamshire	76	84	0.04	no
+floods	4	"51.438727,-2.347839"	County Durham	42	380	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Nottinghamshire	57	450	0.02	no
+dusthaze	8	"52.24757,0.401394"	West Sussex	20	249	0.03	no
+dusthaze	8	"52.250454,0.398549"	Oxfordshire	51	577	0.02	no
+dusthaze	8	"52.501578, -1.703127"	Derbyshire	82	692	0.01	no
+dusthaze	8	"52.501578, -1.703127"	Lincolnshire	75	358	0.02	no
+severestorms	9	"51.182197, -2.104447"	North Yorkshire	25	461	0.02	no
+dusthaze	8	"52.352438,0.420868"	Suffolk	19	263	0.03	no
+tempextremes	5	"51.378849,-2.355562"	Nottinghamshire	49	234	0.03	no
+volcanoes	6	"54.893532,-2.930093"	Gloucestershire	50	586	0.02	no
+volcanoes	6	"54.893917,-2.931381"	Lincolnshire	75	174	0.03	no
+watercolor	7	"53.18945,-2.888651"	Surrey	71	435	0.02	no
+floods	4	"52.502298, -1.709848"	Northumberland	56	117	0.04	no
+floods	4	"52.501381, -1.706348"	Nottinghamshire	14	556	0.02	no
+wildfire	2	"53.744284, -2.476638"	Shropshire	76	348	0.02	no
+droughts	1	"51.430134, -0.006175"	Oxfordshire	65	44	0.07	yes
+wildfire	2	"53.802228, -1.75588"	City of London	96	14	0.07	yes
+watercolor	7	"53.190142,-2.886673"	Shropshire	93	621	0.01	no
+dusthaze	8	"52.24757,0.401394"	0	77	594	0.02	no
+floods	4	"51.441506,-2.354437"	Nottinghamshire	81	455	0.02	no
+severestorms	9	"51.229835, -2.193459"	Essex	76	378	0.02	no
+volcanoes	6	"54.893894,-2.929743"	Shropshire	37	105	0.04	no
+watercolor	7	"53.187754,-2.887104"	Gloucestershire	11	103	0.04	no
+droughts	1	"51.720686, -1.629782"	North Yorkshire	19	131	0.04	no
+watercolor	7	"53.188509,-2.892222"	Merseyside	40	404	0.02	no
+severestorms	9	"51.230545, -2.190775"	Oxfordshire	12	190	0.03	no
+earthquakes	3	"50.750926, -4.391852"	North Yorkshire	15	6	0.07	yes
+dusthaze	8	"52.24757,0.401394"	North Yorkshire	12	175	0.03	no
